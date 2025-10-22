@@ -2,7 +2,7 @@
 
 This repository (or document) provides a list of various software and utility files, primarily hosted on Mega.nz and Google Drive.
 
-## Available Files
+## Available Files on Mega.nz
 
 *   [`Adobe Acrobat DC 2020 by Drive Link.zip`](https://mega.nz/file/GwRnSaKY#HPJM2c_WZ3SWOCRR_esY537oadlYPC_ICf3Xr8-T8Nw)
 *   [`Adobe Illustrator 10(1).zip`](https://mega.nz/file/L8YDiYqA#XJyoQp4F2Ax5DSEEMdMzC3GXXor8KXckeSMHvkKH6Ho)
@@ -36,4 +36,5 @@ This repository (or document) provides a list of various software and utility fi
 
 ## Google Drive Link
 
-*   [Google Drive Folder](https://drive.google.com/drive/folders/1tmZ_zMXERYKlXj9FiaSxKESn2TS9P4-L)
+*   [Google Drive Folder](https://drive.google.com/drive/folders/1PsLmXbAzNzbIUC9UVShHLeeFdDIndvPO?usp=drive_link)
+
